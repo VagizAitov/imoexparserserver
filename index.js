@@ -6,10 +6,10 @@ const axios = require('axios')
 const app = express()
 
 const db = mysql.createConnection({
-    host: "localhost",
-    user: "root",
-    password: '',
-    database: 'users'
+    host: "quoobinuypiel.beget.app",
+    user: "imoexdb",
+    password: 'CZ5OANY!wElV',
+    database: 'imoexdb'
 })
 
 
